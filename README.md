@@ -1,6 +1,6 @@
 # blog
 
-[Node.js && JavaScript 面试常用的设计模式](https://github.com/lvwxx/blog/issues/8)
+[Node.js && JavaScript 面试常用的设计模式-1](https://github.com/lvwxx/blog/issues/8)
 
 [JavaScript中的常用数据结构](https://github.com/lvwxx/blog/issues/1)
 
