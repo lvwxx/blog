@@ -17,3 +17,7 @@
 [Nodejs Docker 镜像体积优化实践](https://github.com/lvwxx/blog/issues/6)
 
 [彻底理解Node.js中的Buffer](https://github.com/lvwxx/blog/issues/7)
+
+
+# question
+[为什么使用v-for时必须添加唯一的key?](https://github.com/lvwxx/blog/issues/10)
