@@ -21,4 +21,5 @@
 
 # question
 [为什么使用v-for时必须添加唯一的key?](https://github.com/lvwxx/blog/issues/10)
+
 [ ['1', '2', '3'].map(parseInt) what & why ? ](https://github.com/lvwxx/blog/issues/11)
