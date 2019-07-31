@@ -29,3 +29,5 @@
 [介绍下 Set、Map、WeakSet 和 WeakMap 的区别？](https://github.com/lvwxx/blog/issues/13)
 
 [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/lvwxx/blog/issues/14)
+
+[ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/lvwxx/blog/issues/15)
