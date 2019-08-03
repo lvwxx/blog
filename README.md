@@ -33,3 +33,5 @@
 [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/lvwxx/blog/issues/15)
 
 [setTimeout、Promise、Async/Await 的区别](https://github.com/lvwxx/blog/issues/16)
+
+[前端必须知道的 HTTP 安全头配置](https://github.com/lvwxx/blog/issues/17)
