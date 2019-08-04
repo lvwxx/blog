@@ -18,6 +18,8 @@
 
 [彻底理解Node.js中的Buffer](https://github.com/lvwxx/blog/issues/7)
 
+[前端必须知道的 HTTP 安全头配置](https://github.com/lvwxx/blog/issues/17)
+
 
 # question
 [为什么使用v-for时必须添加唯一的key?](https://github.com/lvwxx/blog/issues/10)
@@ -34,4 +36,3 @@
 
 [setTimeout、Promise、Async/Await 的区别](https://github.com/lvwxx/blog/issues/16)
 
-[前端必须知道的 HTTP 安全头配置](https://github.com/lvwxx/blog/issues/17)
