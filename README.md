@@ -9,6 +9,7 @@
 
 - [JavaScript中的常用数据结构](https://github.com/lvwxx/blog/issues/1)
 - [JavaScript中的算法(附10道面试常见算法题解决方法和思路)](https://github.com/lvwxx/blog/issues/4)
+- [编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](https://github.com/lvwxx/blog/issues/19)
 
 ## devops
 
@@ -45,5 +46,3 @@
 - [介绍下深度优先遍历和广度优先遍历，如何实现？](https://github.com/lvwxx/blog/issues/14)
 - [ES5/ES6 的继承除了写法以外还有什么区别？](https://github.com/lvwxx/blog/issues/15)
 - [setTimeout、Promise、Async/Await 的区别](https://github.com/lvwxx/blog/issues/16)
-- [编写一个程序将数组扁平化去并除其中重复部分数据，最终得到一个升序且不重复的数组](https://github.com/lvwxx/blog/issues/19)
-
