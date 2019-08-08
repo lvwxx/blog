@@ -24,9 +24,9 @@
 
 ## Design Patterns
 
-- [Node.js && JavaScript 面试常用的设计模式-2](https://github.com/lvwxx/blog/issues/9)
+- [Node.js && JavaScript 常用的设计模式-2](https://github.com/lvwxx/blog/issues/9)
 
-- [Node.js && JavaScript 面试常用的设计模式-1](https://github.com/lvwxx/blog/issues/8)
+- [Node.js && JavaScript 常用的设计模式-1](https://github.com/lvwxx/blog/issues/8)
 
 ## safety
 
