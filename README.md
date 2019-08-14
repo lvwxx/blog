@@ -1,5 +1,7 @@
 # blog
 
+[toc]
+
 ## JS 基础
 
 - [JavaScript中的执行上下文和堆栈是什么](https://github.com/lvwxx/blog/issues/2)
