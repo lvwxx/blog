@@ -5,6 +5,7 @@
 - [JavaScript中的执行上下文和堆栈是什么](https://github.com/lvwxx/blog/issues/2)
 - [17道面试题彻底理解 JavaScript 中的类型转换](https://github.com/lvwxx/blog/issues/18)
 - [如何实现一个 new](https://github.com/lvwxx/blog/issues/20)
+- [优化网站性能最佳实践](https://github.com/lvwxx/blog/issues/22)
 
 ## 数据结构和算法
 
