@@ -25,6 +25,7 @@
 ## node.js
 
 - [彻底理解Node.js中的Buffer](https://github.com/lvwxx/blog/issues/7)
+- [记 mysql 并发更新时的表锁问题](https://github.com/lvwxx/blog/issues/23)
 
 ## Design Patterns
 
