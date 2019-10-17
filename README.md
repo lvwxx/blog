@@ -33,6 +33,9 @@
 
 - [Node.js && JavaScript 常用的设计模式-1](https://github.com/lvwxx/blog/issues/8)
 
+- [从零实现支持洋葱模型中间件的 vuex](https://github.com/lvwxx/blog/issues/24)
+
+
 ## safety
 
 - [前端必须知道的 HTTP 安全头配置](https://github.com/lvwxx/blog/issues/17)
