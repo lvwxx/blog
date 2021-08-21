@@ -43,6 +43,7 @@
 ## others
 
 - [两种敏捷开发方式的工作流](https://github.com/lvwxx/blog/issues/5)
+- [Git switch 和 restore 命令](https://github.com/lvwxx/blog/issues/25)
 
 ## question
 
